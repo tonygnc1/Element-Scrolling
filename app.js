@@ -41,6 +41,6 @@ function scrollingEle() {
       sElement.style.top = cElement.clientHeight + 'px';
     }
 
-    output.innerHTML = 'Scrolling content';
+    output.innerHTML = 'Adjust Scroll Speed Below';
   }
 }
